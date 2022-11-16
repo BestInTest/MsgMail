@@ -1,0 +1,10 @@
+name: AppleMc-MsgMail
+main: pl.BestInTest.msgmail.Main
+version: 1.0
+api-version: 1.18
+author: BestInTest
+website: 000-000.pl
+
+commands:
+  msgmail:
+    description: Przeładowanie konfiguracji pluginu

@@ -1,0 +1,24 @@
+settings:
+  #czas wejścia powiadomienia (w tickach)
+  enter: 10
+
+  #czas utrzymywania się powiadomienia (w tickach)
+  show: 40
+
+  #czas wygasania powiadomienia (w tickach)
+  out: 10
+
+  #teskst górny i dolny
+  title: "&e\u2709"
+  subtitle: ""
+
+  #ustawienia dźwięku
+  #nazwy można znaleźć w kodzie źródłowym silnika:
+  #https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Sound.html
+  #Należy pamiętać, że w przypadku używania pluginu na starszej wersji
+  #niektórych dźwięków może nie być
+  sound:
+    enable: true
+    name: "ENTITY_EXPERIENCE_ORB_PICKUP"
+    volume: 0.5
+    pitch: 0.2
